@@ -13,7 +13,7 @@ This application was designed to help users  reach their fitness goals more quic
   
 
 ## Installation
-Heroku URL link  : ****** <br>
+Heroku URL link  : ***https://fitness-tracker-ismeny.herokuapp.com/*** <br>
 
 ![Screenshot](assets/dashboard.png) <br>
 ![Screenshot](assets/stats.png) <br>
